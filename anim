@@ -1,0 +1,7 @@
+while true do
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jaredloI/lmfao/main/lolz'))()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jaredloI/emotes/main/imots'))()
+game.Players.LocalPlayer.Character.Humanoid.Jump = false
+wait(1)
+end
